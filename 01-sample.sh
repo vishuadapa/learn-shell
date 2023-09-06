@@ -1,3 +1,3 @@
 ls
 dnf list installed
-echo vishu rocks
+echo vishu and Saanvi rocks!!
